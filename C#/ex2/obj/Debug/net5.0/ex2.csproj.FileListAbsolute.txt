@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\obj\Debug\net5.0\ex2.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\obj\Debug\net5.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\obj\Debug\net5.0\ex2.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\obj\Debug\net5.0\ex2.AssemblyInfo.cs
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\obj\Debug\net5.0\ex2.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\bin\Debug\net5.0\ex2.exe
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\bin\Debug\net5.0\ex2.deps.json
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\bin\Debug\net5.0\ex2.runtimeconfig.json
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\bin\Debug\net5.0\ex2.runtimeconfig.dev.json
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\bin\Debug\net5.0\ex2.dll
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\bin\Debug\net5.0\ref\ex2.dll
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\bin\Debug\net5.0\ex2.pdb
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\obj\Debug\net5.0\ex2.dll
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\obj\Debug\net5.0\ref\ex2.dll
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\obj\Debug\net5.0\ex2.pdb
+C:\Users\felip\Desktop\Estudos\log_programação\ex2\obj\Debug\net5.0\ex2.genruntimeconfig.cache
